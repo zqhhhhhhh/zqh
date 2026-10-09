@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+_pkg/
+_pet_src/
+_pet_patched/
+*.log
+*.tmp
+_gh/

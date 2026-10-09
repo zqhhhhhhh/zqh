@@ -1,0 +1,6 @@
+;DshPet standalone (WebM) - 脚底网速补丁版
+;由本地注入生成，基于官方 4.2.1
+
+Path=%LOCALAPPDATA%\Programs\dsh-pet-standalone-webm
+Setup=dsh-pet-standalone-webm.exe
+Overwrite=1
